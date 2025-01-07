@@ -1,0 +1,15 @@
+,Min,Max,Range
+domain_age_days,0.0,45541.0,45541.0
+url_length,4.0,25523.0,25519.0
+dash_count,0.0,322.0,322.0
+dot_count,0.0,211.0,211.0
+tld_count,0.0,65.0,65.0
+subdomain_count,0.0,43.0,43.0
+at_count,0.0,32.0,32.0
+digit_letter_ratio,0.0,20.84,20.84
+url_entropy,0.1008357627462402,6.048781190271678,5.947945427525438
+nan_char_entropy,0.0168630465774428,1.9015038199051828,1.88464077332774
+has_punycode,0.0,1.0,1.0
+starts_with_ip,0.0,1.0,1.0
+domain_has_digits,0.0,1.0,1.0
+has_internal_links,0.0,1.0,1.0
